@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sjp-api-net", "sjp-api-net\sjp-api-net.csproj", "{89C159AD-4170-44B4-AF47-495D327F3248}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{A9987E58-727C-405A-9ED5-ABBB8E0DEAF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{89C159AD-4170-44B4-AF47-495D327F3248}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89C159AD-4170-44B4-AF47-495D327F3248}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89C159AD-4170-44B4-AF47-495D327F3248}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9987E58-727C-405A-9ED5-ABBB8E0DEAF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9987E58-727C-405A-9ED5-ABBB8E0DEAF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9987E58-727C-405A-9ED5-ABBB8E0DEAF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9987E58-727C-405A-9ED5-ABBB8E0DEAF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
